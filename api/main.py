@@ -1,6 +1,5 @@
 from fastapi import FastAPI
 import pymongo
-import urllib 
 from Usermodel import Users
 
 app = FastAPI()
